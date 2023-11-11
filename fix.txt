@@ -1,0 +1,10 @@
+The following dependency needs to be added:
+
+```xml
+<dependency>
+	<groupId>com.github.mp911de.microbenchmark-runner</groupId
+	<artifactId>microbenchmark-runner-junit5</artifactId
+	<version>0.3.0.RELEASE</version
+	<scope>test</scope
+</dependency>
+```
